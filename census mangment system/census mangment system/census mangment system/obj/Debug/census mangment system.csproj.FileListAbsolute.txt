@@ -1,0 +1,17 @@
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\bin\Debug\census mangment system.exe.config
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\bin\Debug\census mangment system.exe
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\bin\Debug\census mangment system.pdb
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census mangment system.csprojResolveAssemblyReference.cache
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.Properties.Resources.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census mangment system.csproj.GenerateResource.Cache
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census mangment system.exe
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census mangment system.pdb
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.loginForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.choiceForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.entryForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.viewForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.deleteForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.updateForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.searchForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.queryForm.resources
+D:\uni\4th semester\DBMS\census mangment system\census mangment system\census mangment system\obj\Debug\census_mangment_system.graphForm.resources
